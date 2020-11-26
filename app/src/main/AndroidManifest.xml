@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GeoBSR">
-        <activity android:name=".MainActivity">
+        <activity android:name=".crearuser"></activity>
+        <activity android:name=".loguser" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".splash"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
