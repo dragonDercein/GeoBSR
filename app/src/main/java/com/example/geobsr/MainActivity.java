@@ -42,11 +42,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }else{
                 if(select == R.id.rb_2){
-                    intent = new Intent(MainActivity.this, crearuser.class);
+                    intent = new Intent(MainActivity.this, crearInstitucion.class);
                     startActivity(intent);
                 }
             }
-            Log.i(TAG,"ingresa a las activityes");
         }
 
     }
