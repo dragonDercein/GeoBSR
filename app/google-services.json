@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805210481120",
+    "firebase_url": "https://geobsr-70dc0.firebaseio.com",
+    "project_id": "geobsr-70dc0",
+    "storage_bucket": "geobsr-70dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805210481120:android:6980bffead799bef2c4b85",
+        "android_client_info": {
+          "package_name": "com.example.geobsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805210481120-7ana67q820qeuitb3nn68e9tb7lctru0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geobsr",
+            "certificate_hash": "3f8e81af60bf9e0dab35c8ba956775563c57c6b7"
+          }
+        },
+        {
+          "client_id": "805210481120-rud3i3r64l48gbt5cph4lb2a5e4ncs87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTis4JWcu-B3hLyFDXp9w6NEdcjr82mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805210481120-rud3i3r64l48gbt5cph4lb2a5e4ncs87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
